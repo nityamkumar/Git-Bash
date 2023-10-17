@@ -1,0 +1,4 @@
+Create a new file in git directory.
+Add and commit the file.
+Push the code to centeral repository. :wq
+
